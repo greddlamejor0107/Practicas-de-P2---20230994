@@ -1,0 +1,14 @@
+C:\Users\a\source\repos\creación_estructura\creación_estructura\bin\Debug\net8.0\creación_estructura.exe
+C:\Users\a\source\repos\creación_estructura\creación_estructura\bin\Debug\net8.0\creación_estructura.deps.json
+C:\Users\a\source\repos\creación_estructura\creación_estructura\bin\Debug\net8.0\creación_estructura.runtimeconfig.json
+C:\Users\a\source\repos\creación_estructura\creación_estructura\bin\Debug\net8.0\creación_estructura.dll
+C:\Users\a\source\repos\creación_estructura\creación_estructura\bin\Debug\net8.0\creación_estructura.pdb
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.AssemblyInfo.cs
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.dll
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\refint\creación_estructura.dll
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.pdb
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\creación_estructura.genruntimeconfig.cache
+C:\Users\a\source\repos\creación_estructura\creación_estructura\obj\Debug\net8.0\ref\creación_estructura.dll
